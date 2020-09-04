@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on Front-End Project
+- 👯 I’m looking to collaborate on Website Project
 - 📫 How to reach me : 
   - LinkedIn = www.linkedin.com/in/ghozymhm 
   - Instagram = https://www.instagram.com/ghozymhm/
