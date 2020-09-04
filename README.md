@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello, I'm Ghozy! 👋
 
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning Web Development
