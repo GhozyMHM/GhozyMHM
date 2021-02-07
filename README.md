@@ -1,7 +1,7 @@
 ### Hello, I'm Ghozy! 👋
 
 - 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning Front End Web Development (Especially about Webpack and AJAX)
+- 🌱 I’m currently learning Front End Web Development (Especially Vue.js)
 - 👯 I’m looking to collaborate on Website Project
 - 📫 How to reach me : 
   - LinkedIn = www.linkedin.com/in/ghozymhm 
