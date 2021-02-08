@@ -8,3 +8,4 @@
   - Instagram = https://www.instagram.com/ghozymhm/
 
 [![Ghozy's github stats](https://github-readme-stats.vercel.app/api?username=GhozyMHM&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/GhozyMHM?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhozyMHM)](https://github.com/anuraghazra/github-readme-stats)
